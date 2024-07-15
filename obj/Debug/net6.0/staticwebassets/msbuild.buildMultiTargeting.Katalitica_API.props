@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Katalitica_API.props" />
+</Project>

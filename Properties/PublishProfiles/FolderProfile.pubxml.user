@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2024-01-03T22:22:28.7860288Z;True|2024-01-03T16:17:08.6102186-06:00;True|2024-01-03T15:07:07.6073005-06:00;True|2024-01-03T14:45:55.2985845-06:00;True|2024-01-03T14:31:20.5989755-06:00;False|2024-01-03T14:30:50.1029061-06:00;True|2024-01-03T11:21:03.6936172-06:00;True|2024-01-03T10:39:01.1725031-06:00;True|2024-01-03T10:38:10.9596567-06:00;True|2024-01-03T10:06:24.1414432-06:00;True|2024-01-03T10:01:43.8227019-06:00;True|2024-01-03T09:56:37.5416950-06:00;False|2024-01-03T09:56:02.5492415-06:00;True|2024-01-03T08:37:42.9676835-06:00;False|2024-01-02T17:21:51.6625215-06:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\emili\Downloads\Katalitica_API\Katalitica_API\../../../Documents/Build_Katalitica_API_C#</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
